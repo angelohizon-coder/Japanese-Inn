@@ -1,0 +1,43 @@
+/* FONT FAMILY CLUSTER */
+a, p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.card-title, h3 {
+  font-family: 'Alegreya', serif;
+}
+
+/* NAVBAR */
+.navbar {
+  padding: 0.75% 5% 0.5%;
+}
+
+.nav-item {
+  padding: 0 2.5%;
+}
+
+/* LANDING SECTION */
+
+
+/* SERVICE SECTION */
+.card-text {
+  color: #48504c;
+  font-size: 1.125rem;
+  font-weight: lighter;
+}
+
+.card-title {
+  color: #763e18;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.service-section {
+  padding: 7% 15%;
+}
+
+/* CONTACT SECTION */
+.contact-header {
+  position: absolute;
+  display: inline;
+}
